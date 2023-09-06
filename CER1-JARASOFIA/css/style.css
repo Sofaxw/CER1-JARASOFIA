@@ -1,0 +1,55 @@
+#texto1{
+    padding: 2%;
+}
+
+#galeria{
+    padding: 2%;
+    
+}
+
+#contacto{
+    background-color: #f25252;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    padding: 2%;
+    
+}
+
+#hover{
+    color: white;
+    
+}
+#hover:hover{
+    color: #f6c270;
+    
+}
+
+#line{
+    background-color: #fae2e2;
+    padding: 4px;
+}
+
+
+#footer{
+    background-color: #f25252;
+    color: white;
+    padding: 8%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    text-align: center;
+}
+
+#heart{
+    color: white;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    
+}
+
+#repo{
+    color: white;
+}
